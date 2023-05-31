@@ -11,15 +11,15 @@ Sweet paddings with ./mlpr/mlpr.css
 
 # Style
 
-**ml** - margin-left
-**mt** - margin-top
-**mr** - margin-right
-**mb** - margin-bottom
+**ml** - `margin-left`
+**mt** - `margin-top`
+**mr** - `margin-right`
+**mb** - `margin-bottom`
 
-**pl** - padding-left
-**pt** - padding-top
-**pr** - padding-right
-**pb** - padding-bottom
+**pl** - `padding-left`
+**pt** - `padding-top`
+**pr** - `padding-right`
+**pb** - `padding-bottom`
 
 # Sample
 
