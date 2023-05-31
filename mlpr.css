@@ -1,0 +1,209 @@
+/* mlpr.css */
+/* ver 1.0.0 */
+/* scripting by mssmr */
+
+/* MARGINS */
+
+/* margin-left */
+
+.ml5 {
+	margin-left: .5vw; 
+}
+
+.ml10 {
+	margin-left: 1vw;
+}
+
+.ml15 {
+	margin-left: 1.5vw;
+}
+
+.ml20 {
+	margin-left: 2vw;
+}
+
+.ml25 {
+	margin-left: 2.5vw;
+}
+
+.ml30 {
+	margin-left: 3vw;
+}
+
+/* margin-top */
+
+.mt5 {
+	margin-top: .5vh;
+}
+
+.mt10 {
+	margin-top: 1vh;
+}
+
+.mt15 {
+	margin-top: 1.5vh;
+}
+
+.mt20 {
+	margin-top: 2vh;
+}
+
+.mt25 {
+	margin-top: 2.5vh;
+}
+
+.mt30 {
+	margin-top: 3vh;
+}
+
+/* margin-right */
+
+.mr5 {
+	margin-right: .5vw;
+}
+
+.mr10 {
+	margin-right: 1vw;
+}
+
+.mr15 {
+	margin-right: 1.5vw;
+}
+
+.mr20 {
+	margin-right: 2vw;
+}
+
+/* margin-bottom */
+
+.mb5 {
+	margin-bottom: .5vh;
+}
+
+.mb10 {
+	margin-bottom: 1vh;
+}
+
+.mb15 {
+	margin-bottom: 1.5vh;
+}
+
+.mb20 {
+	margin-bottom: 2vh;
+}
+
+.mb25 {
+	margin-bottom: 2.5vh;
+}
+
+/* end */
+
+/* PADDINGS */
+
+/* padding-left */
+
+.pl5 {
+	padding-left: .5vw;
+}
+
+.pl10 {
+	padding-left: 1vw;
+}
+
+.pl15 {
+	padding-left: 1.5vw;
+}
+
+.pl20 {
+	padding-left: 2vw;
+}
+
+.pl25 {
+	padding-left: 2.5vw;
+}
+
+.pl30 {
+	padding-left: 3vw;
+}
+
+/* padding-top */
+
+.pt5 {
+	padding-top: .5vh;
+}
+
+.pt10 {
+	padding-top: 1vh;
+}
+
+.pt15 {
+	padding-top: 1.5vh;
+}
+
+.pt20 {
+	padding-top: 2vh;
+}
+
+.pt25 {
+	padding-top: 2.5vh;
+}
+
+.pt30 {
+	padding-top: 3vh;
+}
+
+/* padding-right */
+
+.pr5 {
+	padding-right: .5vh;
+}
+
+.pr10 {
+	padding-right: 1vh;
+}
+
+.pr15 {
+	padding-right: 1.5vh;
+}
+
+.pr20 {
+	padding-right: 2vh;
+}
+
+.pr25 {
+	padding-right: 2.5vh;
+}
+
+.pr30 {
+	padding-right: 3vh;
+}
+
+/* padding-bottom */
+
+.pb5 {
+	padding-bottom: .5vh;
+}
+
+.pb10 {
+	padding-bottom: 1vh;
+}
+
+.pb15 {
+	padding-bottom: 1.5vh;
+}
+
+.pb20 {
+	padding-bottom: 2vh;
+}
+
+.pb25 {
+	padding-bottom: 2.5vh;
+}
+
+.pb30 {
+	padding-bottom: 3vh;
+}
+
+/* end */
+
+/* END OF mlpr.css */
